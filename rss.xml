@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[VenrockAI]]></title>
         <description><![CDATA[VenrockAI]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/venrockai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 21:37:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 21:37:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/venrockai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Ars VR headset showdown-Oculus Rift vs. HTC Vive]]></title>
+            <description><![CDATA[<article><h1>The Ars VR headset showdown-Oculus Rift vs. HTC Vive</h1><p>In our original reviews of the Oculus Rift and the HTC Vive, we tried very hard to examine these virtual reality systems on their own merits without constant comparisons to the competition. But no product exists in a vacuum. After years of buildup, we're now faced with two competitive, PC-tethered VR headsets hitting the market right next to each other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a473611978ca4931a0d74678d9cd4a6eaafdb8a9.jpg"></article>]]></description>
+            <link>http://arstechnica.com/gaming/2016/04/the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive/</link>
+            <guid isPermaLink="false">85848d43-3e6e-483f-bcc0-21b96228a7b0</guid>
+            <pubDate>Wed, 20 Apr 2016 21:36:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sevenhugs' Smart Remote]]></title>
             <description><![CDATA[<article><h1>Sevenhugs' Smart Remote</h1><p>Looking to simplify the endless number of apps and interfaces used to control smart-home products, French start-up Sevenhugs has introduced the first "contextually aware" universal Smart Remote. In other words, it's the first remote to understand where it is in your home and what it's pointing at, allowing users to simply point and click to control devices instead of switching between apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1caa77bd36920224edf22d445e863c5b829e80.jpg"></article>]]></description>
