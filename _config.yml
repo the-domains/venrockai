@@ -1,0 +1,14 @@
+layout_spectrum: 0.8740486698225141
+typography_spectrum: 0.13038871274329722
+color:
+  brandStrength: 0.10640979674644768
+  lightness: 0.41951760719530284
+  saturation: 0.7925443551503122
+  rhythmicContrast: 0.6387219328898937
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: VenrockAI
